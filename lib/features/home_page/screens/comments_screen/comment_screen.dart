@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:toktok/features/auth/controllers/auth_controller.dart';
-import 'package:toktok/features/home_page/screens/comments_screen/controllers/comment_controller.dart';
+import 'package:toktok/features/auth/services/auth_controller.dart';
 import 'package:timeago/timeago.dart' as tago;
+import 'package:toktok/features/home_page/screens/comments_screen/services/comment_controller.dart';
 
 class CommentScreen extends StatelessWidget {
   final String id;

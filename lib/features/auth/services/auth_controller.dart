@@ -4,7 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:toktok/core/widgets/bottom_navigationbar.dart';
+import 'package:toktok/core/widgets/bottom_navigation_bar.dart';
 import 'package:toktok/features/auth/login/login_screen.dart';
 import 'package:toktok/features/auth/models/user_model.dart' as model;
 import 'package:toktok/features/home_page/home_screen.dart';

@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:get/get.dart';
 import 'package:toktok/features/add_video/models/upload_video_model.dart';
-import 'package:toktok/features/auth/controllers/auth_controller.dart';
+import 'package:toktok/features/auth/services/auth_controller.dart';
 
 class VideoController extends GetxController {
   final Rx<List<Video>> _videoList = Rx<List<Video>>([]);

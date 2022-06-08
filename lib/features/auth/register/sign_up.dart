@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:toktok/core/utils/color_utils.dart';
-import 'package:toktok/features/auth/controllers/auth_controller.dart';
 import 'package:toktok/features/auth/login/login_screen.dart';
 import 'package:toktok/features/auth/register/widgets/signup_text_field.dart';
+import 'package:toktok/features/auth/services/auth_controller.dart';
 
 class SignUpScreen extends StatefulWidget {
   const SignUpScreen({Key? key}) : super(key: key);

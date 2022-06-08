@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:toktok/core/utils/color_utils.dart';
-import 'package:toktok/features/auth/controllers/auth_controller.dart';
+import 'package:toktok/features/auth/services/auth_controller.dart';
 import 'package:toktok/features/home_page/home_screen.dart';
 import 'package:toktok/features/home_page/widgets/custom_icon.dart';
 import 'package:toktok/features/profile/my_profile_screen.dart';

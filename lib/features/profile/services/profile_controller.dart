@@ -1,7 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:flutter/rendering.dart';
 import 'package:get/get.dart';
-import 'package:toktok/features/auth/controllers/auth_controller.dart';
+import 'package:toktok/features/auth/services/auth_controller.dart';
 
 class ProfileController extends GetxController {
   final Rx<Map<String, dynamic>> _user = Rx<Map<String, dynamic>>({});

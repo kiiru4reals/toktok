@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:get/get.dart';
-import 'package:toktok/features/auth/controllers/auth_controller.dart';
+import 'package:toktok/features/auth/services/auth_controller.dart';
 import 'package:toktok/features/home_page/screens/comments_screen/models/comment_model.dart';
 
 class CommentController extends GetxController {

@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:toktok/features/add_video/controllers/add_video_controller.dart';
+import 'package:toktok/features/add_video/services/add_video_controller.dart';
 import 'package:toktok/features/auth/login/widgets/login_text_field.dart';
 import 'package:video_player/video_player.dart';
 

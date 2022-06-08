@@ -2,9 +2,9 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:toktok/core/utils/color_utils.dart';
-import 'package:toktok/features/auth/controllers/auth_controller.dart';
 import 'package:toktok/features/auth/login/login_screen.dart';
 import 'package:toktok/features/auth/register/sign_up.dart';
+import 'package:toktok/features/auth/services/auth_controller.dart';
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:toktok/features/auth/controllers/auth_controller.dart';
-import 'package:toktok/features/home_page/controllers/video_controller.dart';
+import 'package:toktok/features/auth/services/auth_controller.dart';
 import 'package:toktok/features/home_page/screens/comments_screen/comment_screen.dart';
+import 'package:toktok/features/home_page/services/video_controller.dart';
 import 'package:toktok/features/home_page/widgets/circle_animation.dart';
 import 'package:toktok/features/home_page/widgets/video_player_item.dart';
 
