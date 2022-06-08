@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "843984139649",
+    "project_id": "toktok2-bf50c",
+    "storage_bucket": "toktok2-bf50c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843984139649:android:30717575bdf4c496456480",
+        "android_client_info": {
+          "package_name": "com.example.toktok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843984139649-vrvlj4km0i7kbusd0ra2sngjav7069ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toktok",
+            "certificate_hash": "8a96f848c60a2f61e52a476cca2f1a54fb548a8c"
+          }
+        },
+        {
+          "client_id": "843984139649-46lfo05lpk6sumanpmlvbajgosikakt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_646MLuffAKMO-UXqZ4JSCNWB1XIZgBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843984139649-46lfo05lpk6sumanpmlvbajgosikakt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
